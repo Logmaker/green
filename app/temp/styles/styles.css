@@ -986,11 +986,11 @@ a {
 Instead edit gulp/templates/sprite */
 
 .icon {
-      background-image: url('/assets/images/sprites/sprite-167c3604.svg');
+      background-image: url('/assets/images/sprites/sprite-0cf960bb.svg');
     }
 
 .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-167c3604.png');
+      background-image: url('/assets/images/sprites/sprite-0cf960bb.png');
     }
 
 .icon--clear-view-escapes {
@@ -1002,79 +1002,109 @@ Instead edit gulp/templates/sprite */
 .icon--facebook {
     width: 23.23px;
     height: 44.01px;
-    background-position: 76.68264158905266% 29.953137832745544%;
+    background-position: 89.66815160683231% 38.483863072135385%;
   }
 
 .icon--fire {
     width: 58px;
     height: 66px;
-    background-position: 97.1043771043771% 71.35135135135135%;
+    background-position: 53.76623376623377% 94.89772727272727%;
   }
 
 .icon--globe {
     width: 66px;
     height: 66px;
-    background-position: 43.944636678200695% 66.77297297297298%;
+    background-position: 37.40053050397878% 94.89772727272727%;
   }
 
 .icon--green-white {
     width: 144px;
     height: 62px;
-    background-position: 68.43601895734596% 0;
+    background-position: 0 22.958955223880597%;
+  }
+
+.icon--groasis {
+    width: 88px;
+    height: 101px;
+    background-position: 81.2394366197183% 0;
+  }
+
+.icon--holistic {
+    width: 76px;
+    height: 111px;
+    background-position: 34.60490463215259% 56.406392694063925%;
   }
 
 .icon--instagram {
     width: 44.01px;
     height: 44.01px;
-    background-position: 67.65490851795877% 29.953137832745544%;
+    background-position: 94.33820396501166% 53.87251302493094%;
+  }
+
+.icon--justdiggit {
+    width: 77px;
+    height: 88px;
+    background-position: 55.46448087431694% 51.04545454545455%;
   }
 
 .icon--mail {
     width: 66px;
     height: 50px;
-    background-position: 49.965397923875436% 30.845771144278608%;
+    background-position: 76.49867374005304% 68.21428571428571%;
+  }
+
+.icon--methode {
+    width: 79px;
+    height: 79px;
+    background-position: 0 99.81274900398407%;
+  }
+
+.icon--permaculture {
+    width: 78px;
+    height: 90px;
+    background-position: 79.01369863013697% 42.083333333333336%;
   }
 
 .icon--pionier {
     width: 127px;
     height: 127px;
-    background-position: 0 99.62096774193549%;
+    background-position: 0 60.85221674876847%;
   }
 
 .icon--rain {
     width: 66px;
     height: 66px;
-    background-position: 66.78200692041523% 66.77297297297298%;
+    background-position: 70.29177718832891% 94.89772727272727%;
   }
 
 .icon--star {
     width: 66px;
     height: 66px;
-    background-position: 99.79238754325259% 0;
+    background-position: 99.84084880636605% 0;
   }
 
 .icon--twitter {
     width: 53.78px;
     height: 44.06px;
-    background-position: 95.743974503685% 95.67990721948391%;
+    background-position: 96.70623297877806% 23.08176540532979%;
   }
 
 .icon--wifi {
     width: 62px;
     height: 66px;
-    background-position: 98.43003412969281% 35.67567567567568%;
+    background-position: 20.73490813648294% 94.89772727272727%;
   }
 
 .icon--yes {
     width: 144px;
     height: 62px;
-    background-position: 0 32.55555555555556%;
+    background-position: 48.2943143812709% 0;
   }
 
 .icon--youtube {
     width: 36.75px;
     height: 44px;
-    background-position: 39.9057344854674% 91.56038647342996%;
+    background-position: 98.37046153846154% 38.48251748251748%;
   }
 
 .site-footer {
