@@ -2,123 +2,105 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('/assets/images/sprites/sprite-0cf960bb.svg');
+      background-image: url('/assets/images/sprites/sprite-72a5309f.svg');
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-0cf960bb.png');
+      background-image: url('/assets/images/sprites/sprite-72a5309f.png');
     }
 
-  .icon--clear-view-escapes {
-    width: 144.4px;
-    height: 61.53px;
-    background-position: 0 0;
+  .icon--bodem_schimmel {
+    width: 83px;
+    height: 102px;
+    background-position: 50.37220843672456% 45.43080939947781%;
   }
 
-  .icon--facebook {
-    width: 23.23px;
-    height: 44.01px;
-    background-position: 89.66815160683231% 38.483863072135385%;
+  .icon--capilaire_werking {
+    width: 83px;
+    height: 102px;
+    background-position: 80.89330024813896% 26.631853785900784%;
   }
 
-  .icon--fire {
-    width: 58px;
-    height: 66px;
-    background-position: 53.76623376623377% 94.89772727272727%;
+  .icon--cover_crops {
+    width: 87px;
+    height: 82px;
+    background-position: 44.3609022556391% 74.68982630272953%;
   }
 
-  .icon--globe {
-    width: 66px;
-    height: 66px;
-    background-position: 37.40053050397878% 94.89772727272727%;
+  .icon--covercrops {
+    width: 86px;
+    height: 83px;
+    background-position: 0 100%;
   }
 
   .icon--green-white {
     width: 144px;
     height: 62px;
-    background-position: 0 22.958955223880597%;
+    background-position: 53.21637426900585% 0;
   }
 
   .icon--groasis {
     width: 88px;
     height: 101px;
-    background-position: 81.2394366197183% 0;
+    background-position: 0 78.38541666666667%;
   }
 
   .icon--holistic {
     width: 76px;
     height: 111px;
-    background-position: 34.60490463215259% 56.406392694063925%;
+    background-position: 30.975609756097562% 46.524064171122994%;
   }
 
-  .icon--instagram {
-    width: 44.01px;
-    height: 44.01px;
-    background-position: 94.33820396501166% 53.87251302493094%;
+  .icon--humus {
+    width: 83px;
+    height: 102px;
+    background-position: 80.89330024813896% 0;
   }
 
   .icon--justdiggit {
     width: 77px;
     height: 88px;
-    background-position: 55.46448087431694% 51.04545454545455%;
+    background-position: 100% 0;
   }
 
-  .icon--mail {
-    width: 66px;
-    height: 50px;
-    background-position: 76.49867374005304% 68.21428571428571%;
+  .icon--lamp {
+    width: 142px;
+    height: 87px;
+    background-position: 52.906976744186046% 15.577889447236181%;
+  }
+
+  .icon--lamp2 {
+    width: 182px;
+    height: 112px;
+    background-position: 0 0;
+  }
+
+  .icon--logo_schimmel {
+    width: 89px;
+    height: 84px;
+    background-position: 22.16624685138539% 75.06234413965088%;
   }
 
   .icon--methode {
     width: 79px;
     height: 79px;
-    background-position: 0 99.81274900398407%;
+    background-position: 64.86486486486487% 74.13793103448276%;
   }
 
   .icon--permaculture {
     width: 78px;
     height: 90px;
-    background-position: 79.01369863013697% 42.083333333333336%;
+    background-position: 79.90196078431373% 51.64556962025316%;
   }
 
   .icon--pionier {
     width: 127px;
     height: 127px;
-    background-position: 0 60.85221674876847%;
-  }
-
-  .icon--rain {
-    width: 66px;
-    height: 66px;
-    background-position: 70.29177718832891% 94.89772727272727%;
-  }
-
-  .icon--star {
-    width: 66px;
-    height: 66px;
-    background-position: 99.84084880636605% 0;
-  }
-
-  .icon--twitter {
-    width: 53.78px;
-    height: 44.06px;
-    background-position: 96.70623297877806% 23.08176540532979%;
-  }
-
-  .icon--wifi {
-    width: 62px;
-    height: 66px;
-    background-position: 20.73490813648294% 94.89772727272727%;
+    background-position: 0 48.60335195530726%;
   }
 
   .icon--yes {
     width: 144px;
     height: 62px;
-    background-position: 48.2943143812709% 0;
-  }
-
-  .icon--youtube {
-    width: 36.75px;
-    height: 44px;
-    background-position: 98.37046153846154% 38.48251748251748%;
+    background-position: 0 26.47754137115839%;
   }
